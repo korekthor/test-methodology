@@ -6,7 +6,7 @@ Pro testování sítí na čárky byly nahodile vybrány tyto texty:
 5. https://www.forum24.cz/rusky-general-promluvil-o-ztratach-na-ukrajine-mozna-bude-velet-k-ustupu/
 
 V textech je celkem 170 čárek*.  
-Čárky byly z textů vyjmuty a vloženy do jednotlivých nástrojů.  
+Čárky byly z textů vyjmuty a vloženy do jednotlivých nástrojů. Test byl prováděn 15. a 16. 11. 2023.   
 | Nástroj         | Vložil správně | Nevložil  | Vložil nadbytečně  |
 | --------------- | -------------- | --------- | ------------------ |
 | Korekthor       | 156            | 14        | 9                  |
