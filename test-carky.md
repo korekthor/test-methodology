@@ -1,11 +1,11 @@
 Pro testování sítí na čárky byly nahodile vybrány tyto texty:
-https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-polska-policie-zadrzela-tomase-cermaka-ktery-se-vyhybal-nastupu-do-vezeni-239810
-https://www.blesk.cz/clanek/zpravy-udalosti/756118/pasovy-opar-muze-zpusobit-roky-bolesti-primarka-rohacova-nechte-se-ockovat-existuje-nova-vakcina.html
-https://www.novinky.cz/clanek/krimi-bratr-zatceneho-cermaka-tomase-na-dno-stahl-alkohol-a-pseudokamaradi-40450928
-https://www.svetandroida.cz/facebook-youtube-reklamy-predplatne-adblock/
-https://www.forum24.cz/rusky-general-promluvil-o-ztratach-na-ukrajine-mozna-bude-velet-k-ustupu/
+1. https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-polska-policie-zadrzela-tomase-cermaka-ktery-se-vyhybal-nastupu-do-vezeni-239810
+2. https://www.blesk.cz/clanek/zpravy-udalosti/756118/pasovy-opar-muze-zpusobit-roky-bolesti-primarka-rohacova-nechte-se-ockovat-existuje-nova-vakcina.html
+3. https://www.novinky.cz/clanek/krimi-bratr-zatceneho-cermaka-tomase-na-dno-stahl-alkohol-a-pseudokamaradi-40450928
+4. https://www.svetandroida.cz/facebook-youtube-reklamy-predplatne-adblock/
+5. https://www.forum24.cz/rusky-general-promluvil-o-ztratach-na-ukrajine-mozna-bude-velet-k-ustupu/
 
-Celkem 170 čárek*
+V textech je celkem 170 čárek*.
 Čárky byly z textů vyjmuty a vloženy do jednotlivých nástrojů.
 | Nástroj         | Vložil správně | Nevložil  | Vložil nadbytečně  |
 | --------------- | -------------- | --------- | ------------------ |
