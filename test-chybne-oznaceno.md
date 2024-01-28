@@ -5,7 +5,7 @@ Pro testování počtu mylně ozznačených chyb byly nahodile vybrány tyto tex
 4. https://www.svetandroida.cz/facebook-youtube-reklamy-predplatne-adblock/
 5. https://www.forum24.cz/rusky-general-promluvil-o-ztratach-na-ukrajine-mozna-bude-velet-k-ustupu/
 
-Texty obsahovaly celkem 2 356 slov. Test byl prováděn 12. 11. 2023.   
+Texty obsahovaly celkem 2 356 slov. Test byl prováděn 21. 1. 2024.   
 | Nástroj         | Označil nadbytečně | Nadbytečně označeno na sto slov |
 | --------------- | ------------------ | ------------------------------- |
 | Korekthor       | 63                 | 2,37                            |
