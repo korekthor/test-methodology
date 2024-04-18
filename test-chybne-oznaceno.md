@@ -1,4 +1,4 @@
-Pro testování počtu mylně ozznačených chyb byly nahodile vybrány tyto texty:
+Pro testování počtu mylně označených chyb byly nahodile vybrány tyto texty:
 1. https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-polska-policie-zadrzela-tomase-cermaka-ktery-se-vyhybal-nastupu-do-vezeni-239810
 2. https://www.blesk.cz/clanek/zpravy-udalosti/756118/pasovy-opar-muze-zpusobit-roky-bolesti-primarka-rohacova-nechte-se-ockovat-existuje-nova-vakcina.html
 3. https://www.novinky.cz/clanek/krimi-bratr-zatceneho-cermaka-tomase-na-dno-stahl-alkohol-a-pseudokamaradi-40450928
